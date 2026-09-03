@@ -1,0 +1,14 @@
+/* ===== THEME DETAILS ===== */
+    /* Warm, pizza-shop styling that complements Tailwind utilities */
+    .pizza-bg {
+      background:
+        radial-gradient(circle at top left, rgba(239, 68, 68, 0.18), transparent 30%),
+        radial-gradient(circle at top right, rgba(251, 191, 36, 0.18), transparent 28%),
+        linear-gradient(180deg, #fff8f2 0%, #fffaf6 100%);
+    }
+    .pizza-card-shadow {
+      box-shadow: 0 12px 30px rgba(127, 29, 29, 0.10);
+    }
+    .badge-ring {
+      box-shadow: inset 0 0 0 1px rgba(153, 27, 27, 0.14);
+    }
